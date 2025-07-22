@@ -1,5 +1,5 @@
 # Stocks-Code
-Python script to quickly track trading strategies
+Python script to quickly track trading strategies (currently set to 50k allocated as an example amount):
 
 This code is used as a daily check in on my strategies.
 It will:
