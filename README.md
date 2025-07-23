@@ -8,6 +8,8 @@ It will:
 -Tells me how many shares to buy based on volatility adjusted allocation  
 -Tells me if there is low allocation resolution because of share size (ex. allocate 1000 to meta but one share is ~700 --> means a large % unused)
 
-note: I did use ChatGPT to help but with the older 2024 versions.
+note:  
+-I did use ChatGPT to help write this but with the older 2024 versions.  
+-This calls another function file I created called Indicators_TS. 
 
-This is used in conjunction with a different script which scans for good strategy opportunities
+This is used in conjunction with a different script which scans for good strategy opportunities.
